@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/javaS_practice",
       "program": "c:/javaS_practice/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/NCL/OneDrive/Desktop/my_javaa_folder/DSA_FOLDER/DSA",
+      "program": "c:/Users/NCL/OneDrive/Desktop/my_javaa_folder/DSA_FOLDER/DSA/build/Debug/outDebug",
+>>>>>>> 1f922baab49f4ca8582a1ba5b41c8ea0d99766ed
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
