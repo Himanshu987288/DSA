@@ -36,5 +36,3 @@ int findUnique(int *arr,int size){
     }
     return 0;
 }// arr={1,2,3,2,1}=[3 ans] 
-
-//
